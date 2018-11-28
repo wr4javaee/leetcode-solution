@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850eba66-33db-432a-94ac-3c0ef00b5808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0001_two-sum/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0001_two-sum/solution_01_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no00036_valid-sudoku/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no00036_valid-sudoku/solution_01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no00036_valid-sudoku/solution_01_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0036_valid-sudoku/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/no0036_valid-sudoku/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go" beforeDir="false" afterPath="$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,18 +21,20 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="51">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/no00036_valid-sudoku/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="782">
-                <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+              <first_editor relative-caret-position="663">
+                <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,10 +78,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no00036_valid-sudoku/solution_01.go">
+        <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="442">
+              <caret line="26" column="16" lean-forward="true" selection-end-line="68" selection-end-column="1" />
               <folding>
                 <element signature="e#30#58#0" expanded="true" />
               </folding>
@@ -97,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no00036_valid-sudoku/solution_01_test.go">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="914">
+              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -129,6 +130,10 @@
         <option value="$PROJECT_DIR$/no00036_valid-sudoku/solution_01.go" />
         <option value="$PROJECT_DIR$/no00036_valid-sudoku/solution_01_test.go" />
         <option value="$PROJECT_DIR$/no00036_valid-sudoku/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/no0036_valid-sudoku/README.md" />
+        <option value="$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go" />
+        <option value="$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go" />
       </list>
     </option>
   </component>
@@ -156,6 +161,16 @@
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="no0001_two-sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
+              <item name="no0036_valid-sudoku" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +183,7 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543394820677" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543405700341" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -198,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.solution_01_test.go">
+  <component name="RunManager" selected="Go Test.TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku">
     <configuration name="go build solution_01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
       <working_directory value="$PROJECT_DIR$" />
@@ -206,17 +221,6 @@
       <filePath value="$PROJECT_DIR$/no00036_valid-sudoku/solution_01.go" />
       <package value="github.com/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestCase01 in github.com/leetcode-solution/no0001_two-sum" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0001_two-sum" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="github.com/leetcode-solution/no0001_two-sum" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^TestCase01$" />
       <method v="2" />
     </configuration>
     <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -228,6 +232,27 @@
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <pattern value="^TestIsValidSudoku$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-solution" />
+      <working_directory value="$PROJECT_DIR$/no0036_valid-sudoku" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/leetcode-solution/no0036_valid-sudoku" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestIsValidSudoku$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution_01_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-solution" />
+      <working_directory value="$PROJECT_DIR$/no0036_valid-sudoku" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/leetcode-solution" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go" />
       <method v="2" />
     </configuration>
     <configuration name="solution_01_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -242,10 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" />
+        <item itemvalue="Go Test.solution_01_test.go (1)" />
         <item itemvalue="Go Test.solution_01_test.go" />
         <item itemvalue="Go Test.TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" />
         <item itemvalue="Go Build.go build solution_01.go" />
-        <item itemvalue="Go Test.TestCase01 in github.com/leetcode-solution/no0001_two-sum" />
       </list>
     </recent_temporary>
   </component>
@@ -259,32 +285,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543314590078</updated>
-      <workItem from="1543314592476" duration="13143000" />
+      <workItem from="1543314592476" duration="16989000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no00036_valid-sudoku - 2018.11.28 at 16h 01m 13s.xml">
-      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_01_test_go - 2018.11.28 at 16h 01m 37s.xml">
-      <configuration name="solution_01_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no00036_valid-sudoku - 2018.11.28 at 16h 28m 13s.xml">
-      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no00036_valid-sudoku - 2018.11.28 at 16h 33m 24s.xml">
-      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_01_test_go - 2018.11.28 at 16h 33m 42s.xml">
-      <configuration name="solution_01_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_01_test_go - 2018.11.28 at 16h 33m 58s.xml">
-      <configuration name="solution_01_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no00036_valid-sudoku - 2018.11.28 at 16h 38m 51s.xml">
-      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no00036_valid-sudoku - 2018.11.28 at 16h 39m 37s.xml">
       <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no00036_valid-sudoku" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -294,9 +299,30 @@
     <history-entry file="solution_01_test_go - 2018.11.28 at 16h 42m 01s.xml">
       <configuration name="solution_01_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 18h 44m 51s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 19h 29m 15s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 19h 29m 40s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 19h 30m 17s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 19h 38m 58s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 19h 47m 39s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestIsValidSudoku_in_github_com_leetcode-solution_no0036_valid-sudoku - 2018.11.28 at 19h 48m 14s.xml">
+      <configuration name="TestIsValidSudoku in github.com/leetcode-solution/no0036_valid-sudoku" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13143000" />
+    <option name="totallyTimeSpent" value="16989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1080" height="1920" extended-state="0" />
@@ -307,7 +333,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2726397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22061656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -317,7 +343,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2681081" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27135134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,10 +363,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/no0001_two-sum/README.md">
+    <entry file="file://$PROJECT_DIR$/common/test_utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/strings/compare.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -362,41 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-solution.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/test_utils.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/strings/compare.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no00036_valid-sudoku/solution_01.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#30#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no00036_valid-sudoku/solution_01_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/no0001_two-sum/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -404,13 +412,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/no00036_valid-sudoku/README.md">
+    <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="782">
-            <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+          <first_editor relative-caret-position="663">
+            <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="16" lean-forward="true" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="e#30#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-solution.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
         </state>
       </provider>
     </entry>
