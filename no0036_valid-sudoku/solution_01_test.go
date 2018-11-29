@@ -2,18 +2,18 @@ package no0036_valid_sudoku
 
 import "testing"
 
-// 定义单元测试数据类型
+// 定义单元测试结构体
 type testCaseModel struct {
 	requestModel
 	responseModel
 }
 
-// 定义被测试方法请求参数数据类型
+// 定义被测试方法请求参数结构体
 type requestModel struct {
 	board [][]byte
 }
 
-// 定义被测试方法返回参数数据类型
+// 定义被测试方法返回参数结构体
 type responseModel struct {
 	result bool
 }
@@ -92,12 +92,12 @@ func TestIsValidSudoku(t *testing.T) {
 	}
 
 	// 执行测试方法
-	for _, v := range testCaseArr {
+	for i, v := range testCaseArr {
 		req, res := v.requestModel, v.responseModel
 		if res.result == isValidSudoku(req.board) {
-			t.Log("比对成功")
+			t.Log("测试通过, 测试用例为", i)
 		} else {
-			t.Error("比对失败")
+			t.Error("测试未通过, 测试用例为", i)
 		}
 	}
 
