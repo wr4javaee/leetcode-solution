@@ -1,7 +1,5 @@
 package binary_search
 
-import "fmt"
-
 //
 // 给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target  ，
 // 写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
@@ -21,7 +19,24 @@ import "fmt"
 // n 将在 [1, 10000]之间。
 // nums 的每个元素都将在 [-9999, 9999]之间。
 func search(nums []int, target int) int {
+	numsLen := len(nums)
+	if numsLen == 0 {
+		return -1
+	}
+	lowIndex := 0
+	highIndex := numsLen - 1
+	for lowIndex <= highIndex {
+		midIndex := (lowIndex + highIndex) / 2
+		midValue := nums[midIndex]
+		if midValue == target {
+			return midIndex
+		} else if midValue < target {
+			lowIndex = midIndex + 1
+		} else {
+			// midValue > target
+			highIndex = midIndex - 1
+		}
+	}
 
-	fmt.Println("123")
-	return 0
+	return -1
 }
