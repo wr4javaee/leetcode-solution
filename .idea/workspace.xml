@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850eba66-33db-432a-94ac-3c0ef00b5808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/explore/selection-sort/practice_01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/explore/selection-sort/practice_01_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0050_powx-n/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0075_sort-colors/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0075_sort-colors/solution_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0147_insertion-sort-list/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0147_insertion-sort-list/solution_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/insertion-sort-array/practice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/insertion-sort-array/practice_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/merge-sort-list-bottom-to-top/practice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/selection-sort-list/practice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore/selection-sort-list/practice_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0094_binary-tree-inorder-traversal/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0102_binary-tree-level-order-traversal/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0145_binary-tree-postorder-traversal/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0148_sort-list/solution.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/no0658_find-k-closest-elements/solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/no0658_find-k-closest-elements/solution.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore/selection-sort/practice_01.go" beforeDir="false" afterPath="$PROJECT_DIR$/explore/selection-sort-array/practice_01.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore/selection-sort/practice_01_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/explore/selection-sort-array/practice_01_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0009_palindrome-number/unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/no0009_palindrome-number/unit_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0075_sort-colors/solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/no0075_sort-colors/solution.go" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,100 +40,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_01.go">
+        <entry file="file://$PROJECT_DIR$/no0145_binary-tree-postorder-traversal/solution.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/selection-sort/practice_01.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/selection-sort/practice_01_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#24#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="720">
+              <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/no0075_sort-colors/solution.go">
+        <entry file="file://$PROJECT_DIR$/no0102_binary-tree-level-order-traversal/solution.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0075_sort-colors/solution_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#28#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#36#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/go/src/testing/testing.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12195">
-              <caret line="829" selection-start-line="829" selection-end-line="829" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0001_two-sum/solution.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_01_test.go">
+        <entry file="file://$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="38" selection-end-column="1" />
+              <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0094_binary-tree-inorder-traversal/solution.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -149,26 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/no0002_add-two-numbers/solution.go" />
-        <option value="$PROJECT_DIR$/no0002_add-two-numbers/solution_test.go" />
-        <option value="$PROJECT_DIR$/no0001_two-sum/README.md" />
-        <option value="$PROJECT_DIR$/no0002_add-two-numbers/README.md" />
-        <option value="$PROJECT_DIR$/no0003_longest-substring-without-repeating-characters/common.go" />
-        <option value="$PROJECT_DIR$/no0003_longest-substring-without-repeating-characters/solution.go" />
-        <option value="$PROJECT_DIR$/no0003_longest-substring-without-repeating-characters/solution_03.go" />
-        <option value="$PROJECT_DIR$/no0003_longest-substring-without-repeating-characters/solution_test.go" />
-        <option value="$PROJECT_DIR$/no0003_longest-substring-without-repeating-characters/solution_02.go" />
-        <option value="$PROJECT_DIR$/no0003_longest-substring-without-repeating-characters/README.md" />
-        <option value="$PROJECT_DIR$/no0021_merge-two-sorted-lists/solution.go" />
-        <option value="$PROJECT_DIR$/no0006_zigzag-conversion/solution_test.go" />
-        <option value="$PROJECT_DIR$/no0006_zigzag-conversion/solution.go" />
-        <option value="$PROJECT_DIR$/no0039_combination-sum/solution_01_test.go" />
-        <option value="$PROJECT_DIR$/no0038_count-and-say/solution_01_test.go" />
-        <option value="$PROJECT_DIR$/no0038_count-and-say/solution.go" />
-        <option value="$PROJECT_DIR$/no0040_combination-sum-ii/solution_01_test.go" />
-        <option value="$PROJECT_DIR$/no0040_combination-sum-ii/solution.go" />
-        <option value="$PROJECT_DIR$/no0039_combination-sum/solution.go" />
-        <option value="$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go" />
         <option value="$PROJECT_DIR$/explore/binary-search/practice01.go" />
         <option value="$PROJECT_DIR$/explore/binary-search/practice_01_test.go" />
         <option value="$PROJECT_DIR$/explore/binary-search/practice_01.go" />
@@ -200,6 +129,26 @@
         <option value="$PROJECT_DIR$/no0147_insertion-sort-list/solution_test.go" />
         <option value="$PROJECT_DIR$/no0075_sort-colors/solution_test.go" />
         <option value="$PROJECT_DIR$/no0075_sort-colors/solution.go" />
+        <option value="$PROJECT_DIR$/no0148_sort-list/solution.go" />
+        <option value="$PROJECT_DIR$/explore/insertion-sort-array/practice_test.go" />
+        <option value="$PROJECT_DIR$/explore/selection-sort-list/solution.go" />
+        <option value="$PROJECT_DIR$/explore/selection-sort-list/practice.go" />
+        <option value="$PROJECT_DIR$/explore/selection-sort-list/practice_test.go" />
+        <option value="$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice_test.go" />
+        <option value="$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice.go" />
+        <option value="$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice_test.go" />
+        <option value="$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice.go" />
+        <option value="$PROJECT_DIR$/merge-sort-list-bottom-to-top/practice.go" />
+        <option value="$PROJECT_DIR$/explore/insertion-sort-array/practice.go" />
+        <option value="$PROJECT_DIR$/explore/selection-sort-array/practice_01.go" />
+        <option value="$PROJECT_DIR$/explore/merge-sort-list-bottom-to-top/practice.go" />
+        <option value="$PROJECT_DIR$/no0009_palindrome-number/unit_test.py" />
+        <option value="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution_test.go" />
+        <option value="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution.go" />
+        <option value="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution.go" />
+        <option value="$PROJECT_DIR$/no0094_binary-tree-inorder-traversal/solution.go" />
+        <option value="$PROJECT_DIR$/no0145_binary-tree-postorder-traversal/solution.go" />
+        <option value="$PROJECT_DIR$/no0102_binary-tree-level-order-traversal/solution.go" />
       </list>
     </option>
   </component>
@@ -211,7 +160,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1080" />
     <option name="height" value="1920" />
   </component>
@@ -221,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,27 +180,18 @@
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="no0075_sort-colors" type="462c0819:PsiDirectoryNode" />
+              <item name="no0102_binary-tree-level-order-traversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="no0147_insertion-sort-list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="no0374_guess-number-higher-or-lower" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="no0658_find-k-closest-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="no0144_binary-tree-preorder-traversal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -268,7 +207,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/no0021_merge-two-sorted-lists" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/explore/selection-sort-list" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -280,15 +219,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/explore" />
+      <recent name="$PROJECT_DIR$/no0001_two-sum" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/explore/selection-sort-list" />
       <recent name="$PROJECT_DIR$/no0021_merge-two-sorted-lists" />
       <recent name="$PROJECT_DIR$/no00278_first-bad-version" />
       <recent name="$PROJECT_DIR$/no0033_search-in-rotated-sorted-array" />
       <recent name="$PROJECT_DIR$/no0374_guess-number-higher-or-lower" />
-      <recent name="$PROJECT_DIR$/no0069_sqrtx" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/no0001_two-sum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -304,64 +244,62 @@
     </option>
   </component>
   <component name="RunManager" selected="Go Test.solution_test.go">
-    <configuration name="Test in github.com/wr4javaee/leetcode-solution/no0147_insertion-sort-list" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0147_insertion-sort-list" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="github.com/wr4javaee/leetcode-solution/no0147_insertion-sort-list" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution.go" />
+      <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^Test$" />
       <method v="2" />
     </configuration>
     <configuration name="practice_01_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/explore/selection-sort" />
+      <working_directory value="$PROJECT_DIR$/explore/selection-sort-array" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/explore/selection-sort/practice_01_test.go" />
+      <filePath value="$PROJECT_DIR$/explore/selection-sort-array/practice_01_test.go" />
       <method v="2" />
     </configuration>
-    <configuration name="solution_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="practice_test.go (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0153_find-minimum-in-rotated-sorted-array" />
+      <working_directory value="$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/no0153_find-minimum-in-rotated-sorted-array/solution_test.go" />
+      <filePath value="$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice_test.go" />
       <method v="2" />
     </configuration>
-    <configuration name="solution_test.go (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="practice_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0147_insertion-sort-list" />
+      <working_directory value="$PROJECT_DIR$/explore/insertion-sort-array" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/no0147_insertion-sort-list/solution_test.go" />
+      <filePath value="$PROJECT_DIR$/explore/insertion-sort-array/practice_test.go" />
       <method v="2" />
     </configuration>
     <configuration name="solution_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0075_sort-colors" />
+      <working_directory value="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/no0075_sort-colors/solution_test.go" />
+      <filePath value="$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution_test.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Test.solution_test.go" />
-        <item itemvalue="Go Test.solution_test.go (2)" />
-        <item itemvalue="Go Test.Test in github.com/wr4javaee/leetcode-solution/no0147_insertion-sort-list" />
+        <item itemvalue="Go Build.go build solution.go" />
         <item itemvalue="Go Test.practice_01_test.go" />
-        <item itemvalue="Go Test.solution_test.go (1)" />
+        <item itemvalue="Go Test.practice_test.go" />
+        <item itemvalue="Go Test.practice_test.go (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -388,50 +326,57 @@
       <workItem from="1557874372360" duration="148000" />
       <workItem from="1557887250610" duration="6207000" />
       <workItem from="1557908948482" duration="3610000" />
-      <workItem from="1557973047095" duration="12187000" />
+      <workItem from="1557973047095" duration="12265000" />
+      <workItem from="1558052444179" duration="155000" />
+      <workItem from="1558061096773" duration="4770000" />
+      <workItem from="1558319758356" duration="2694000" />
+      <workItem from="1558345312924" duration="878000" />
+      <workItem from="1558405316703" duration="21939000" />
+      <workItem from="1558491563696" duration="3167000" />
+      <workItem from="1558577882694" duration="16679000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="solution_test_go_(2) - 2019.05.16 at 16h 54m 23s.xml">
-      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
+    <history-entry file="practice_test_go_(2) - 2019.05.21 at 17h 02m 15s.xml">
+      <configuration name="practice_test.go (2)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="solution_test_go_(2) - 2019.05.16 at 16h 55m 15s.xml">
-      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
+    <history-entry file="practice_test_go_(3) - 2019.05.21 at 17h 18m 10s.xml">
+      <configuration name="practice_test.go (3)" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="solution_test_go_(2) - 2019.05.16 at 17h 01m 09s.xml">
-      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
+    <history-entry file="practice_test_go - 2019.05.22 at 10h 23m 30s.xml">
+      <configuration name="practice_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="solution_test_go_(2) - 2019.05.16 at 17h 01m 19s.xml">
-      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
+    <history-entry file="practice_01_test_go - 2019.05.22 at 10h 25m 33s.xml">
+      <configuration name="practice_01_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="Test_in_github_com_wr4javaee_leetcode-solution_no0147_insertion-sort-list - 2019.05.16 at 17h 09m 28s.xml">
-      <configuration name="Test in github.com/wr4javaee/leetcode-solution/no0147_insertion-sort-list" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go_(2) - 2019.05.16 at 17h 09m 57s.xml">
-      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go_(2) - 2019.05.16 at 17h 10m 14s.xml">
-      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go - 2019.05.16 at 18h 21m 47s.xml">
+    <history-entry file="solution_test_go - 2019.05.23 at 11h 16m 14s.xml">
       <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="solution_test_go - 2019.05.16 at 18h 26m 35s.xml">
+    <history-entry file="solution_test_go - 2019.05.23 at 11h 16m 41s.xml">
       <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="solution_test_go - 2019.05.16 at 18h 27m 14s.xml">
+    <history-entry file="solution_test_go - 2019.05.23 at 11h 17m 34s.xml">
+      <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go - 2019.05.23 at 11h 21m 13s.xml">
+      <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go - 2019.05.23 at 12h 58m 11s.xml">
+      <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go - 2019.05.23 at 12h 58m 37s.xml">
       <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165407000" />
+    <option name="totallyTimeSpent" value="215767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1080" height="1920" extended-state="0" />
+    <frame x="0" y="0" width="1080" height="1920" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27360308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23121387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,8 +385,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990366" visible="true" weight="0.26162162" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990366" weight="0.33513513" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4990366" visible="true" weight="0.26918918" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990366" weight="0.33243242" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -531,14 +476,44 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/no0147_insertion-sort-list/solution.go</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/no0075_sort-colors/solution.go</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/explore/selection-sort-list/practice.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/explore/selection-sort-list/practice.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice.go</url>
+          <line>50</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution.go</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/no0094_binary-tree-inorder-traversal/solution.go</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/no0278_first-bad-version/solution.py</url>
@@ -560,92 +535,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solution$unit_test.coverage" NAME="unit_test Coverage Results" MODIFIED="1557806528771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008.string-to-integer-atoi" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/solution_01.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0001_two-sum/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4080">
-            <caret line="272" selection-start-line="272" selection-end-line="272" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0040_combination-sum-ii/solution_01_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0038_count-and-say/solution_01_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0038_count-and-say/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0039_combination-sum/solution_01_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0036_valid-sudoku/solution_01_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="157" column="20" lean-forward="true" selection-start-line="157" selection-start-column="20" selection-end-line="157" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_03_test.go" />
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_02_test.go" />
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_04_test.go" />
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_04.go" />
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_02.go" />
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_03.go" />
-    <entry file="file://$PROJECT_DIR$/no0040_combination-sum-ii/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="69" column="21" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0069_sqrtx/solution_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/no0374_guess-number-higher-or-lower/dd.go" />
     <entry file="file://$PROJECT_DIR$/no0374_guess-number-higher-or-lower/solution_test.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -695,13 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0009_palindrome-number/unit_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -784,20 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_01.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/selection-sort/practice_01.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/go/src/testing/testing.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12195">
@@ -819,37 +687,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/selection-sort/practice_01_test.go">
+    <entry file="file://$PROJECT_DIR$/explore/binary-search/practice_01.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#24#52#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0148_sort-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="24" />
           <folding>
             <element signature="e#36#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution.go">
+    <entry file="file://$PROJECT_DIR$/explore/selection-sort-list/practice_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="e#29#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#40#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#40#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/merge-sort-array-top-to-bottom/practice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/insertion-sort-array/practice_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#30#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/insertion-sort-array/practice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/merge-sort-array-bottom-to-top/practice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/selection-sort-array/practice_01_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/selection-sort-array/practice_01.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/selection-sort-list/practice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/merge-sort-list-bottom-to-top/practice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0009_palindrome-number/unit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/no0075_sort-colors/solution_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="12" />
           <folding>
             <element signature="e#28#56#0" expanded="true" />
           </folding>
@@ -858,8 +826,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/no0075_sort-colors/solution.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="540">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/container/list/list.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#47#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0094_binary-tree-inorder-traversal/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0145_binary-tree-postorder-traversal/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0144_binary-tree-preorder-traversal/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0102_binary-tree-level-order-traversal/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
