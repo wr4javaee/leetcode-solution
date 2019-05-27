@@ -1,27 +1,16 @@
-package no0102_binary_tree_level_order_traversal
+package no0107_binary_tree_level_order_traversal_ii
 
 import "container/list"
 
 /**
-给定一个二叉树，返回其按层次遍历的节点值。 （即逐层地，从左到右访问所有节点）。
-
-例如:
-给定二叉树: [3,9,20,null,null,15,7],
-
-    3
-   / \
-  9  20
-    /  \
-   15   7
-返回其层次遍历结果：
-
-[
-  [3],
-  [9,20],
-  [15,7]
-]
-*/
-func levelOrder(root *TreeNode) [][]int {
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+func levelOrderBottom(root *TreeNode) [][]int {
 	// BFS
 	// 用list模拟队列
 	l := list.New()
@@ -69,8 +58,9 @@ func levelOrder(root *TreeNode) [][]int {
 	}
 
 	res := make([][]int, len(resMap))
+	maxDepth := len(resMap) - 1
 	for k, v := range resMap {
-		res[k] = *v
+		res[maxDepth - k] = *v
 	}
 
 	return res
