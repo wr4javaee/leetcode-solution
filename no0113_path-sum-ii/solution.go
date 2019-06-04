@@ -2,7 +2,6 @@ package no0113_path_sum_ii
 
 import (
 	"container/list"
-	"fmt"
 )
 
 // 定义子节点 - 父节点map
@@ -23,7 +22,6 @@ func pathSum(root *TreeNode, sum int) [][]int {
 
 	// 返回结果数组
 	res := make([][]int, len(resMap))
-	i := 0
 	for _, nodeValStack := range resMap {
 		arr := make([]int, nodeValStack.Len())
 		j := 0
@@ -33,12 +31,9 @@ func pathSum(root *TreeNode, sum int) [][]int {
 			arr[j] = element.Value.(int)
 			j ++
 		}
-		res[i] = arr
-		i ++
+		res = append(res, arr)
 	}
 
-	fmt.Println(len(resMap))
-	fmt.Println(len(res))
 	return res
 }
 

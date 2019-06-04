@@ -2,27 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850eba66-33db-432a-94ac-3c0ef00b5808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/no0053_maximum-subarray/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0053_maximum-subarray/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0112_path-sum/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0112_path-sum/definition.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0112_path-sum/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0113_path-sum-ii/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0113_path-sum-ii/definition.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0113_path-sum-ii/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0113_path-sum-ii/solution_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/definition.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/solution_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0116_populating-next-right-pointers-in-each-node/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/definition.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/solution.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0130_clone-graph/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0130_surrounded-regions/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no0130_surrounded-regions/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0005_longest-palindromic-substring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0010_zheng-ze-biao-da-shi-pi-pei-by-leetcode/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0010_zheng-ze-biao-da-shi-pi-pei-by-leetcode/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/definition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0020_valid-parentheses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0020_valid-parentheses/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0020_valid-parentheses/solution_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/definition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0070_climbing-stairs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0070_climbing-stairs/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0141_linked-list-cycle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0141_linked-list-cycle/definition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0141_linked-list-cycle/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0206_reverse-linked-list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0206_reverse-linked-list/definition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0206_reverse-linked-list/solution.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0206_reverse-linked-list/solution_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0876_middle-of-the-linked-list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0876_middle-of-the-linked-list/definition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/no0876_middle-of-the-linked-list/solution.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/solution_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/python/solution_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/solution_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/python/solution_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/no0021_merge-two-sorted-lists/python/unit_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0053_maximum-subarray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/no0053_maximum-subarray/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0053_maximum-subarray/solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/no0053_maximum-subarray/solution.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no0113_path-sum-ii/solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/no0113_path-sum-ii/solution.go" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,73 +50,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/definition.go">
+        <entry file="file://$PROJECT_DIR$/no0206_reverse-linked-list/solution.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/solution.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0130_surrounded-regions/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0130_surrounded-regions/solution.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0130_clone-graph/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/no0053_maximum-subarray/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/no0053_maximum-subarray/solution.go">
+        <entry file="file://$PROJECT_DIR$/no0148_sort-list/solution.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0020_valid-parentheses/solution.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0111_minimum-depth-of-binary-tree/solution_bfs.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0162_find-peak-element/solution.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0020_valid-parentheses/solution_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no0020_valid-parentheses/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -125,6 +140,7 @@
     <findStrings>
       <find>slice</find>
       <find>bytes</find>
+      <find>resMap</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
@@ -134,30 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/no0098_validate-binary-search-tree/solution_dfs_test.go" />
-        <option value="$PROJECT_DIR$/no0098_validate-binary-search-tree/solution_dfs.go" />
-        <option value="$PROJECT_DIR$/no0100_same-tree/README.md" />
-        <option value="$PROJECT_DIR$/no0098_validate-binary-search-tree/solution_inorder.go" />
-        <option value="$PROJECT_DIR$/no0100_same-tree/definition.go" />
-        <option value="$PROJECT_DIR$/no0100_same-tree/solution_dfs.go" />
-        <option value="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/README.md" />
-        <option value="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/definition.go" />
-        <option value="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution.go" />
-        <option value="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution_dfs.go" />
-        <option value="$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution_bfs.go" />
-        <option value="$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/definition.go" />
-        <option value="$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/README.md" />
-        <option value="$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/solution_test.go" />
-        <option value="$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/solution.go" />
-        <option value="$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/definition.go" />
-        <option value="$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/README.md" />
-        <option value="$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution_test.go" />
-        <option value="$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution.go" />
-        <option value="$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree/definition.go" />
-        <option value="$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree/README.md" />
-        <option value="$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree/solution.go" />
-        <option value="$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/README.md" />
-        <option value="$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/definition.go" />
         <option value="$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution_test.go" />
         <option value="$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution.go" />
         <option value="$PROJECT_DIR$/no0110_balanced-binary-tree/definition.go" />
@@ -175,7 +167,6 @@
         <option value="$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/README.md" />
         <option value="$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/solution.go" />
         <option value="$PROJECT_DIR$/no0116_populating-next-right-pointers-in-each-node/README.md" />
-        <option value="$PROJECT_DIR$/no0113_path-sum-ii/solution.go" />
         <option value="$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/README.md" />
         <option value="$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/definition.go" />
         <option value="$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/solution.go" />
@@ -183,8 +174,33 @@
         <option value="$PROJECT_DIR$/no0130_surrounded-regions/solution.go" />
         <option value="$PROJECT_DIR$/no0130_clone-graph/README.md" />
         <option value="$PROJECT_DIR$/no0130_clone-graph/solution.java" />
+        <option value="$PROJECT_DIR$/no0070_climbing-stairs/README.md" />
+        <option value="$PROJECT_DIR$/no0070_climbing-stairs/solution.go" />
+        <option value="$PROJECT_DIR$/no0005_longest-palindromic-substring/README.md" />
         <option value="$PROJECT_DIR$/no0053_maximum-subarray/README.md" />
         <option value="$PROJECT_DIR$/no0053_maximum-subarray/solution.go" />
+        <option value="$PROJECT_DIR$/no0113_path-sum-ii/solution.go" />
+        <option value="$PROJECT_DIR$/no0010_zheng-ze-biao-da-shi-pi-pei-by-leetcode/solution.go" />
+        <option value="$PROJECT_DIR$/no0010_zheng-ze-biao-da-shi-pi-pei-by-leetcode/README.md" />
+        <option value="$PROJECT_DIR$/no0206_reverse-linked-list/README.md" />
+        <option value="$PROJECT_DIR$/no0206_reverse-linked-list/solution_test.go" />
+        <option value="$PROJECT_DIR$/no0206_reverse-linked-list/solution.go" />
+        <option value="$PROJECT_DIR$/no0141_linked-list-cycle/definition.go" />
+        <option value="$PROJECT_DIR$/no0141_linked-list-cycle/solution.go" />
+        <option value="$PROJECT_DIR$/no0141_linked-list-cycle/README.md" />
+        <option value="$PROJECT_DIR$/no0021_merge-two-sorted-lists/README.md" />
+        <option value="$PROJECT_DIR$/no0206_reverse-linked-list/definition.go" />
+        <option value="$PROJECT_DIR$/no0021_merge-two-sorted-lists/definition.go" />
+        <option value="$PROJECT_DIR$/no0021_merge-two-sorted-lists/solution.go" />
+        <option value="$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/README.md" />
+        <option value="$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/definition.go" />
+        <option value="$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/solution.go" />
+        <option value="$PROJECT_DIR$/no0876_middle-of-the-linked-list/definition.go" />
+        <option value="$PROJECT_DIR$/no0876_middle-of-the-linked-list/README.md" />
+        <option value="$PROJECT_DIR$/no0876_middle-of-the-linked-list/solution.go" />
+        <option value="$PROJECT_DIR$/no0020_valid-parentheses/README.md" />
+        <option value="$PROJECT_DIR$/no0020_valid-parentheses/solution_test.go" />
+        <option value="$PROJECT_DIR$/no0020_valid-parentheses/solution.go" />
       </list>
     </option>
   </component>
@@ -197,8 +213,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1080" />
-    <option name="height" value="1920" />
+    <option name="width" value="1368" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -212,11 +228,6 @@
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="no0053_maximum-subarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +249,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/no0113_path-sum-ii" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/no0206_reverse-linked-list" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -250,16 +261,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/no0021_merge-two-sorted-lists/python" />
+      <recent name="$PROJECT_DIR$/explore" />
+      <recent name="$PROJECT_DIR$/no0001_two-sum" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/no0206_reverse-linked-list" />
       <recent name="$PROJECT_DIR$/no0113_path-sum-ii" />
       <recent name="$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree" />
       <recent name="$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal" />
       <recent name="$PROJECT_DIR$/no0100_same-tree" />
-      <recent name="$PROJECT_DIR$/no0098_validate-binary-search-tree" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/explore" />
-      <recent name="$PROJECT_DIR$/no0001_two-sum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.solution_test.go (4)">
+  <component name="RunManager" selected="Go Test.solution_test.go (2)">
     <configuration name="go build solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
       <working_directory value="$PROJECT_DIR$" />
@@ -284,24 +296,24 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="solution_test.go (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="solution_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal" />
+      <working_directory value="$PROJECT_DIR$/no0206_reverse-linked-list" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution_test.go" />
+      <filePath value="$PROJECT_DIR$/no0206_reverse-linked-list/solution_test.go" />
       <method v="2" />
     </configuration>
-    <configuration name="solution_test.go (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="solution_test.go (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="leetcode-solution" />
-      <working_directory value="$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree" />
+      <working_directory value="$PROJECT_DIR$/no0020_valid-parentheses" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="github.com/wr4javaee/leetcode-solution" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution_test.go" />
+      <filePath value="$PROJECT_DIR$/no0020_valid-parentheses/solution_test.go" />
       <method v="2" />
     </configuration>
     <configuration name="solution_test.go (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -326,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.solution_test.go (4)" />
-        <item itemvalue="Go Test.solution_test.go" />
-        <item itemvalue="Go Build.go build solution.go" />
-        <item itemvalue="Go Test.solution_test.go (3)" />
         <item itemvalue="Go Test.solution_test.go (2)" />
+        <item itemvalue="Go Test.solution_test.go (1)" />
+        <item itemvalue="Go Test.solution_test.go" />
+        <item itemvalue="Go Test.solution_test.go (4)" />
+        <item itemvalue="Go Build.go build solution.go" />
       </list>
     </recent_temporary>
   </component>
@@ -368,25 +380,16 @@
       <workItem from="1558663552251" duration="21209000" />
       <workItem from="1558923633957" duration="24492000" />
       <workItem from="1559013522687" duration="18224000" />
+      <workItem from="1559096151050" duration="5947000" />
+      <workItem from="1559185495050" duration="12508000" />
+      <workItem from="1559268473366" duration="6418000" />
+      <workItem from="1559529139346" duration="6968000" />
+      <workItem from="1559600481234" duration="367000" />
+      <workItem from="1559614907534" duration="9233000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="solution_test_go_(4) - 2019.05.28 at 15h 37m 59s.xml">
-      <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go_(4) - 2019.05.28 at 15h 40m 34s.xml">
-      <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go_(4) - 2019.05.28 at 15h 50m 11s.xml">
-      <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go_(4) - 2019.05.28 at 15h 51m 13s.xml">
-      <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="solution_test_go_(4) - 2019.05.28 at 15h 51m 56s.xml">
-      <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="solution_test_go_(4) - 2019.05.28 at 15h 53m 13s.xml">
       <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -402,15 +405,30 @@
     <history-entry file="solution_test_go_(4) - 2019.05.28 at 16h 07m 35s.xml">
       <configuration name="solution_test.go (4)" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="solution_test_go - 2019.05.30 at 16h 02m 39s.xml">
+      <configuration name="solution_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go_(1) - 2019.06.03 at 18h 19m 12s.xml">
+      <configuration name="solution_test.go (1)" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go_(1) - 2019.06.03 at 18h 26m 40s.xml">
+      <configuration name="solution_test.go (1)" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go_(2) - 2019.06.04 at 14h 10m 59s.xml">
+      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="solution_test_go_(2) - 2019.06.04 at 14h 15m 32s.xml">
+      <configuration name="solution_test.go (2)" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279852000" />
+    <option name="totallyTimeSpent" value="321293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1080" height="1920" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2601156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21483622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,8 +437,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990366" weight="0.15891892" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990366" visible="true" weight="0.23027027" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990366" weight="0.2772973" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4990366" visible="true" weight="0.26324326" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -574,9 +592,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/no0113_path-sum-ii/solution.go</url>
-          <line>41</line>
-          <properties />
+          <line>36</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/no0206_reverse-linked-list/solution.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/no0020_valid-parentheses/solution.go</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/no0278_first-bad-version/solution.py</url>
@@ -598,301 +626,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solution$unit_test.coverage" NAME="unit_test Coverage Results" MODIFIED="1557806528771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/008.string-to-integer-atoi" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/no0100_same-tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0098_validate-binary-search-tree/solution_inorder.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0100_same-tree/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0100_same-tree/solution_dfs.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0111_minimum-depth-of-binary-tree/solution_bfs.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0104_maximum-depth-of-binary-tree/solution_bfs.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="689" selection-start-line="689" selection-end-line="689" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="829" selection-start-line="829" selection-end-line="829" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/solution_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#74#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0105_construct-binary-tree-from-preorder-and-inorder-traversal/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="57" selection-start-column="57" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0108_convert-sorted-array-to-binary-search-tree/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0110_balanced-binary-tree/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0110_balanced-binary-tree/solution_slow.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/math/abs.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0110_balanced-binary-tree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="570">
-            <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0112_path-sum/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0111_minimum-depth-of-binary-tree/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0112_path-sum/definition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0112_path-sum/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0113_path-sum-ii/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0113_path-sum-ii/solution_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#28#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0114_flatten-binary-tree-to-linked-list/solution_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/no0113_path-sum-ii/definition.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -917,16 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/no0113_path-sum-ii/solution.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
-          <folding>
-            <element signature="e#28#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -944,6 +667,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/no0130_clone-graph/solution.java" />
     <entry file="file://$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/definition.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -954,7 +678,7 @@
     <entry file="file://$PROJECT_DIR$/no0129_sum-root-to-leaf-numbers/solution.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
@@ -962,7 +686,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="360">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -971,18 +695,7 @@
     <entry file="file://$PROJECT_DIR$/no0130_surrounded-regions/solution.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/no0130_clone-graph/solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -990,17 +703,71 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="435">
-            <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <caret line="29" selection-start-line="29" selection-end-line="29" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0070_climbing-stairs/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0005_longest-palindromic-substring/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0075_sort-colors/solution.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0658_find-k-closest-elements/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0374_guess-number-higher-or-lower/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0070_climbing-stairs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0112_path-sum/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/no0053_maximum-subarray/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="780">
+            <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
@@ -1008,8 +775,222 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/no0053_maximum-subarray/solution.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0010_zheng-ze-biao-da-shi-pi-pei-by-leetcode/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0113_path-sum-ii/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0113_path-sum-ii/solution_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#28#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0010_zheng-ze-biao-da-shi-pi-pei-by-leetcode/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1110">
+            <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0206_reverse-linked-list/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0141_linked-list-cycle/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" selection-start-line="2" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0141_linked-list-cycle/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0141_linked-list-cycle/definition.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0206_reverse-linked-list/definition.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0206_reverse-linked-list/solution_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0021_merge-two-sorted-lists/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0021_merge-two-sorted-lists/definition.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0021_merge-two-sorted-lists/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/definition.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0876_middle-of-the-linked-list/definition.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0876_middle-of-the-linked-list/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0876_middle-of-the-linked-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" lean-forward="true" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0019_remove-nth-node-from-end-of-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0020_valid-parentheses/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0020_valid-parentheses/solution_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0020_valid-parentheses/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0147_insertion-sort-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0111_minimum-depth-of-binary-tree/solution_bfs.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0109_convert-sorted-list-to-binary-search-tree/solution.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0106_construct-binary-tree-from-inorder-and-postorder-traversal/solution.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0162_find-peak-element/solution.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0206_reverse-linked-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no0148_sort-list/solution.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
