@@ -9,7 +9,7 @@ package no0098_validate_binary_search_tree
  * }
  */
 func isValidBST(root *TreeNode) bool {
-	// 前序, 判定数组是否升序
+	// 中序, 判定数组是否升序
 	// 异常校验
 	if root == nil {
 		return true
